@@ -8,7 +8,7 @@ import subprocess
 import ast
 
 # Paso 1: Ejecutar Extract.py para generar raw_data.txt
-subprocess.run(["python", "Extract.py"])
+subprocess.run(["python", "1-ETL-SPOTIFY - Practice/Extract.py"])
 
 # Paso 2: Leer el archivo raw_data.txt
 def load_raw_data(file_path):
