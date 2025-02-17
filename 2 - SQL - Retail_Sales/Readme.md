@@ -66,7 +66,8 @@ Un entorno de desarrollo SQL (como MySQL Workbench o DBeaver).
 
 Clonar el repositorio:
 
-git clone /ETL-Projects/2 - SQL - Retail_Sales
+git clone  https://github.com/pablolube/ETL-Projects/2-SQL-Retail_Sales.git
+
 
 Importar la base de datos en MySQL.
 
