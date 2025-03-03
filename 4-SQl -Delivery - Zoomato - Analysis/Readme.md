@@ -12,6 +12,7 @@ Este proyecto analiza la base de datos de Zomato utilizando SQL Server Managemen
 
 ## 📌 Problemas de Negocio Analizados
 
+
 - Top 5 platos más pedidos por "Arjun Mehta" en los últimos 2 años.
 - Horarios más populares para órdenes (bloques de 2 horas).
 - Valor promedio de pedido (AOV) para clientes con +750 órdenes.
