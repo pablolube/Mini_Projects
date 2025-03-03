@@ -79,13 +79,3 @@ Este proyecto analiza la base de datos de Zomato utilizando SQL Server Managemen
 
 [Enlace a la documentación completa](link-a-documentacion) *(si aplica)*.
 
-## 📈 Impacto del Proyecto
-
-✅ **Mejor Retención de Clientes** – Fidelización y segmentación mejoradas.  
-✅ **Eficiencia Operativa Optimizada** – Reducción de tiempos de entrega y costos.  
-✅ **Mayor Rentabilidad de Restaurantes** – Enfoque en los más rentables.  
-✅ **Mayor Calidad en la Entrega** – Incentivos para riders de alto rendimiento.  
-✅ **Expansión del Negocio basada en Datos** – Estrategias de marketing y crecimiento.  
-✅ **Adaptabilidad al Mercado** – Planificación estratégica basada en estacionalidad y tendencias.
-
-📊 Este análisis permite a Zomato tomar decisiones basadas en datos para mejorar la experiencia del usuario y la eficiencia operativa. 🚀
