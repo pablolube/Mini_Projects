@@ -79,3 +79,18 @@ Este proyecto analiza la base de datos de Zomato utilizando SQL Server Managemen
 
 [Enlace a la documentación completa](link-a-documentacion) *(si aplica)*.
 
+## 🚀 Instalación y Configuración
+
+ **Clonar el repositorio**:
+   ```bash
+   git clone https://github.com/
+   cd spotify-etl
+   ```
+## 📬 Contact Me
+
+📧 **Email:** [pablolube@gmail.com](mailto:pablolube@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/pablolube](https://linkedin.com/in/pablolube)  
+📊 **Full Portfolio:** [GitHub.com/pablolube](https://github.com/pablolube)  
+
+---
+
