@@ -16,6 +16,13 @@ The dataset used for this project is sourced from Kaggle:
 
 - **Dataset Link:** [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
+## Findings and Conclusion
+- Content Distribution: The dataset includes a wide variety of movies and TV shows, with diverse ratings and genres.
+- Common Ratings: Analyzing the most frequent ratings helps understand the target audience of the content.
+- Geographical Insights: The analysis reveals the top countries for Netflix content and provides insights into regional content trends, particularly in India.
+- Content Categorization: Organizing content by specific keywords enhances understanding of the types of content available on Netflix.
+- This analysis offers a comprehensive understanding of Netflix’s content and can guide decisions related to content strategy and planning.
+
 ## Schema
 
 ```sql
@@ -35,13 +42,4 @@ CREATE TABLE netflix
     listed_in    VARCHAR(250),
     description  VARCHAR(550)
 );
-
-# Findings and Conclusion
-- Content Distribution: The dataset includes a wide variety of movies and TV shows, with diverse ratings and genres.
-- Common Ratings: Analyzing the most frequent ratings helps understand the target audience of the content.
-- Geographical Insights: The analysis reveals the top countries for Netflix content and provides insights into regional content trends, particularly in India.
-- Content Categorization: Organizing content by specific keywords enhances understanding of the types of content available on Netflix.
-- This analysis offers a comprehensive understanding of Netflix’s content and can guide decisions related to content strategy and planning.
-
-
 
